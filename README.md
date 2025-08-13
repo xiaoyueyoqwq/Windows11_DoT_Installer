@@ -13,7 +13,7 @@
 1. 下载 `dot_installer_cn.py` 到 Windows 11 机器。
 2. **以管理员身份**运行 PowerShell：
    ```powershell
-   python dot_installer_cn.py
+   python dot_installer.py
    ```
    按提示操作。
 
